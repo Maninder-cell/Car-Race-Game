@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg825"
+   width="1365.3333"
+   height="1024"
+   viewBox="0 0 1365.3333 1024"
+   sodipodi:docname="kisspng-3d-car-game-racing-video-game-hot-wheels-5ac52ccbbc45f8.4773358415228714997712.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs829">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient1485"
+       gradientUnits="userSpaceOnUse"
+       x="-1522.3683"
+       y="-157.03502"
+       gradientTransform="translate(1243.5838,95.660289)">
+      <meshrow
+         id="meshrow1487">
+        <meshpatch
+           id="meshpatch1489">
+          <stop
+             path="c 455.444,0  910.889,0  1366.33,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop1491" />
+          <stop
+             path="c 0,341.667  0,683.333  0,1025"
+             style="stop-color:#80ffb3;stop-opacity:1"
+             id="stop1493" />
+          <stop
+             path="c -455.444,0  -910.889,0  -1366.33,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop1495" />
+          <stop
+             path="c 0,-341.667  0,-683.333  0,-1025"
+             style="stop-color:#80ffb3;stop-opacity:1"
+             id="stop1497" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient1507"
+       gradientUnits="userSpaceOnUse"
+       x="126.09765"
+       y="430.47134"
+       gradientTransform="translate(-404.3821,-491.34605)">
+      <meshrow
+         id="meshrow1577">
+        <meshpatch
+           id="meshpatch1579">
+          <stop
+             path="c 162.334,0  324.668,0  487.002,0"
+             style="stop-color:#b7b7b7;stop-opacity:1"
+             id="stop1581" />
+          <stop
+             path="c -0.000875618,189.146  -0.00178783,378.292  -0.00260016,567.439"
+             style="stop-color:#a3d0b5;stop-opacity:1"
+             id="stop1583" />
+          <stop
+             path="c -162.334,-1.13687e-13  -324.667,-1.13687e-13  -487,-2.27374e-13"
+             style="stop-color:#a8e9e3;stop-opacity:1"
+             id="stop1585" />
+          <stop
+             path="c 0.000141176,-189.147  0.000457815,-378.293  0.000710174,-567.439"
+             style="stop-color:#98deb4;stop-opacity:1"
+             id="stop1587" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch1589">
+          <stop
+             path="c 214.51,0  429.02,0  643.528,-5.68434e-14"
+             id="stop1591" />
+          <stop
+             path="c -0.000236725,189.146  -0.00047345,378.293  -0.000710174,567.439"
+             style="stop-color:#89f2b3;stop-opacity:1"
+             id="stop1593" />
+          <stop
+             path="c -214.51,0  -429.02,0  -643.53,2.27374e-13"
+             style="stop-color:#bef9d5;stop-opacity:1"
+             id="stop1595" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch1597">
+          <stop
+             path="c 78.2661,5.68434e-14  156.532,5.68434e-14  234.798,5.68434e-14"
+             id="stop1599" />
+          <stop
+             path="c 0,189.146  0,378.293  0,567.439"
+             style="stop-color:#3dffb3;stop-opacity:1"
+             id="stop1601" />
+          <stop
+             path="c -78.2662,1.13687e-13  -156.533,1.13687e-13  -234.799,-1.13687e-13"
+             style="stop-color:#c6ffdd;stop-opacity:1"
+             id="stop1603" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow1605">
+        <meshpatch
+           id="meshpatch1607">
+          <stop
+             path="c -0.000652516,152.187  -0.000979772,304.374  -0.00130703,456.561"
+             id="stop1609" />
+          <stop
+             path="c -162.334,2.27374e-13  -324.667,2.27374e-13  -486.999,2.27374e-13"
+             style="stop-color:#adffcd;stop-opacity:1"
+             id="stop1611" />
+          <stop
+             path="c 0,-152.187  0,-304.374  0.000571406,-456.561"
+             style="stop-color:#80ffb3;stop-opacity:1"
+             id="stop1613" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch1615">
+          <stop
+             path="c -0.000190468,152.187  -0.000380937,304.374  -0.000571406,456.561"
+             id="stop1617" />
+          <stop
+             path="c -214.51,0  -429.021,0  -643.531,-2.27374e-13"
+             style="stop-color:#e9fff1;stop-opacity:1"
+             id="stop1619" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch1621">
+          <stop
+             path="c 0,152.187  0,304.374  0,456.561"
+             id="stop1623" />
+          <stop
+             path="c -78.2664,0  -156.533,0  -234.799,-2.27374e-13"
+             style="stop-color:#ffff8b;stop-opacity:1"
+             id="stop1625" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview827"
+     showgrid="false"
+     inkscape:zoom="0.22998048"
+     inkscape:cx="76.093414"
+     inkscape:cy="1182.7092"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1644" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1382"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:7.25;font-family:serif;-inkscape-font-specification:'serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:-0.01px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       id="flowRegion1384"><rect
+         id="rect1386"
+         width="273.93628"
+         height="56.526535"
+         x="-1495.7791"
+         y="-110.87891" /></flowRegion><flowPara
+       id="flowPara1388">p</flowPara></flowRoot>  <g
+     id="g1644">
+    <g
+       id="g1651"
+       transform="matrix(0.43021149,0,0,0.61693137,286.93884,-253.31117)"
+       style="stroke-width:1.94106722"
+       inkscape:export-filename="C:\Users\Futuresoft\Desktop\cargame\g1651.png"
+       inkscape:export-xdpi="96.012421"
+       inkscape:export-ydpi="96.012421">
+      <rect
+         style="fill:url(#meshgradient1507);fill-opacity:1;fill-rule:evenodd;stroke:url(#meshgradient1485);stroke-width:1.94106722;stroke-opacity:1"
+         id="rect1380"
+         width="1365.3333"
+         height="1024"
+         x="-278.28448"
+         y="-60.87471" />
+      <image
+         width="1365.3333"
+         height="1024"
+         preserveAspectRatio="none"
+         style="stroke-width:1.94106722;image-rendering:optimizeQuality"
+         xlink:href="file:///C:/Users/Futuresoft/Desktop/kisspng-3d-car-game-racing-video-game-hot-wheels-5ac52ccbbc45f8.4773358415228714997712.png"
+         id="image833"
+         x="-278.28442"
+         y="-60.874695"
+         sodipodi:absref="C:\Users\Futuresoft\Desktop\kisspng-3d-car-game-racing-video-game-hot-wheels-5ac52ccbbc45f8.4773358415228714997712.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:7.25;font-family:serif;-inkscape-font-specification:'serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:-0.01px;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.94106722"
+         x="-226.10614"
+         y="19.566938"
+         id="text1392"><tspan
+           sodipodi:role="line"
+           id="tspan1390"
+           x="-226.10614"
+           y="19.566938"
+           style="stroke-width:1.94106722">PYGAME</tspan></text>
+      <path
+         style="fill:none;stroke:#006a9f;stroke-width:29.4654007;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:14.73269999, 14.73269999;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -278.2845,963.12526 V -60.874708 H 1087.0488 V 963.12526 Z"
+         id="path1396"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
