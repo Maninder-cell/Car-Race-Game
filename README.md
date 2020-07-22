@@ -1,6 +1,6 @@
 # Overdose race
 
-python should be install in your computer.
+python and pygame should be installed.
 
 clone this repository anywhere in your computer then just open final.py file in IDE or in python(IDLE) then run it,the game will be start.
 
